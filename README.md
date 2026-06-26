@@ -146,18 +146,16 @@ SmartWaterLevel/
 ├── images/
 │   ├── mo_hinh.png
 │   ├── so_do_thiet_ke.png
-│   └── demo.gif
+├── Slide.pptx
 ```
 
 ---
 
 # Hướng phát triển
 
-* Điều khiển máy bơm tự động.
-* Gửi cảnh báo qua Internet.
+* Gửi cảnh báo qua Bluetooth.
 * Lưu lịch sử mực nước.
 * Kết nối với ứng dụng Android.
-* Sử dụng ESP32 để giám sát từ xa qua WiFi.
 
 ---
 
