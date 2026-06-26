@@ -144,8 +144,8 @@ SmartWaterLevel/
 ├── sketch_sep23a.ino
 ├── README.md
 ├── images/
-│   ├── mo_hinh.jpg
-│   ├── so_do_noi_day.png
+│   ├── mo_hinh.png
+│   ├── so_do_thiet_ke.png
 │   └── demo.gif
 ```
 
